@@ -1,0 +1,6 @@
+
+
+isUserEntred = []
+module.exports = {
+    isUserEntred
+};

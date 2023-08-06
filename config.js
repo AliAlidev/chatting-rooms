@@ -21,7 +21,7 @@ var Config = {
 	HostDB:'localhost',
 	UserDB:'root',
 	PassDB:'',
-	DBDB:'localhost',
+	DBDB:'chatroom',
 	MaxUpload:50 * 1000 * 1000, // Max 20MB
 	PowerNon : {
     rank: 0,
